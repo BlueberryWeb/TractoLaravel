@@ -1,0 +1,162 @@
+#logo-login{
+    max-width: 250px;
+}
+.login{
+    background-image: url("../img/background-login.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.raya{
+    width: 450px;
+}
+hr {
+    height: 2px!important;
+    width: 400px!important;
+    background-color: white;
+    opacity: 1;
+    margin: 0;
+}
+.btn-login{
+    background-color: #fff;
+    color: black;
+    border-color: #fff;
+    width: 90px;
+}
+.btn-login a{
+    color: black;
+}
+.btn-login:hover{
+    border-color: white;
+    background-color: white;
+    color: black;
+}
+#logo-side{
+    max-width: 150px;
+    margin-left: 50px;
+}
+.menu-lado{
+    background-color: #225473;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: transparent;
+}
+.icono-side{
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 25px;
+}
+.mensaje-bienvenida{
+    background-color: #F2F2F2;
+}
+.logo-bienvenida{
+    max-width: 300px;
+    margin-left: 120px;
+}
+.fondo-bco{
+    background-color: white;
+}
+.dropdown-toggle{
+    background: transparent;
+    color: black;
+    border: none;
+}
+.dropdown-toggle:hover{
+    background: transparent;
+    border: none;
+    color: black;
+}
+.texto-bienvenida{
+    margin-left: 100px;
+    font-size: 1.2rem;
+}
+#fondo-bienvenida{
+    margin-top: 100px;
+    max-width: 800px;
+}
+#icono-area{
+    max-width: 90px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.container-image{
+    position: relative;
+    max-width: 100%;
+}
+.imagen-poster{
+    width: 100%;
+    height: auto;
+}
+.img-thumbnail-item{
+    padding: 0.25rem;
+    max-width: 100%;
+}
+#btn-play{
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50% );
+    cursor: pointer;
+    z-index: 2;
+}
+.btn-play img{
+    max-width: 80px;
+}
+.fondo-azul{
+    background-color: #225473;
+    color: #fff;
+}
+.modal-header{
+    border: none;
+    text-align: center;
+}
+.num{
+    margin-top: 80px;
+}
+.btn-subir{
+    width: 180px;
+    background-color: #225473;
+    border-color: #225473;
+}
+.btn-subir:hover{
+    background-color: #225473;
+    border-color: #225473;
+}
+.modal-title{
+    margin-left: 170px;
+}
+.form-select{
+    background-color: #225473;
+    color: #fff;
+    border-color: #225473;
+}
+.btn-guardar{
+    background-color: #225473;
+    border-color: #225473;
+}
+.btn-guardar:hover{
+    background-color: #225473;
+    border-color: #225473;
+}
+.logo-bb{
+    max-width: 200px;
+}
+.credito{
+    float: left;
+}
+.peticion{
+    background-color: gray;
+    color: #fff;
+    border-color: gray;
+}
+.modal-video{
+    background: none;
+    border: none;
+}
